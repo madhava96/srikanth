@@ -1,0 +1,13 @@
+1. add company
+   ----error occured  try again means ? what is the mean mistake
+   view company
+   ---- search bar not working
+   ----- data is not visible
+2.company management
+  -----company page name and company name y both?
+  ----- view company pages not working
+3.add user
+-------password hide icon 2 times visible
+-----line attached
+ 
+
